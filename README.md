@@ -1,4 +1,11 @@
 ### Hi there 👋
+I am a data enthusiast who has recently pivoted my career to pursue my passion. Over the past few years, I have developed a growing interest in data and decided to make a change. To gain a strong foundation in this field, I completed a Le Wagon bootcamp where I learned a variety of skills, including Python, SQL, and visualization tools. Additionally, I gained experience in machine learning algorithms and deep learning, which helped me refine my abilities in data analysis.
+
+While I have a broad range of knowledge, I am particularly interested in the field of reinforcement learning. I find it fascinating how it can be applied to various industries, such as gaming, robotics, and finance. To further my understanding of this area, I have been working on small projects, which have allowed me to apply my skills and explore different approaches to solving problems.
+
+If you would like to learn more about me and my work, please check out my GitHub. You will find some of my completed projects, as well as my current work in progress.
+
+Thank you for taking the time to read about my background and interests. Please feel free to reach out if you have any questions or would like to collaborate on a project.
 
 <!--
 **GrGLeo/GrGLeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
